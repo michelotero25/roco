@@ -1,0 +1,492 @@
+#EXTM3U
+#EXTPARAMS:NET=6500
+#EXTINF:-1 group-title="PAY",FR RMC SPORT 1
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/15127
+#EXTINF:-1,FR RMC SPORT 1 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9218
+#EXTINF:-1,FR RMC SPORT 1 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9502
+#EXTINF:-1,|.ZA.| Super Sport 3 FHD
+http://v1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/102711
+#EXTINF:-1,BEIN SPORTS 11 HD EN
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9153
+#EXTINF:-1 group-title="SKY",SKY SPORTS MAIN EVENT
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/31084
+#EXTINF:-1,SKY SPORTS MAIN EVENT FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/30945
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/31088
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/30943
+#EXTINF:-1,SKY SPORTS FOOTBALL FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/30997
+#EXTINF:-1,SKY SPORT FOOTBALL FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/30862
+#EXTINF:-1,SKY SPORTS ACTION FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/30941
+#EXTINF:-1,SKY SPORTS ACTION
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/31086
+#EXTINF:-1,SKY SPORT ARENA FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/30863
+#EXTINF:-1,SKY SPORTS ARENA
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/30999
+#EXTINF:-1,SKY SPORTS F1
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/30995
+#EXTINF:-1,SKY SPORT F1 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/30967
+#EXTINF:-1,SKY SPORTS CRICKET
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/31085
+#EXTINF:-1,SKY SPORTS CRICKET FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/30940
+#EXTINF:-1,SKY SPORTS GOLF
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/31087
+#EXTINF:-1,SKY SPORTS GOLF FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/30942
+#EXTINF:-1,SKY SPORTS MIX
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/31025
+#EXTINF:-1,SKY SPORTS MIX FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/30994
+#EXTINF:-1,RACING TV
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/31078
+#EXTINF:-1,SKY SPORTS RACING FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/31033
+#EXTINF:-1,NBCSN FHD
+http://v1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/86124
+#EXTINF:-1,NBCSN HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/67016
+#EXTINF:-1,NBC SN HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/31768
+#EXTINF:-1 group-title="BT",BT SPORT 1
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/30904
+#EXTINF:-1,BT SPORT 1 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/30871
+#EXTINF:-1,BT SPORT 1 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/30989
+#EXTINF:-1,BT SPORT 2
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/31044
+#EXTINF:-1,BT SPORT 2 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/30905
+#EXTINF:-1,BT SPORT 2 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/31001
+#EXTINF:-1,BT SPORT 3
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/31036
+#EXTINF:-1,BT SPORT 3 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/31027
+#EXTINF:-1,BT SPORT 3 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/31000
+#EXTINF:-1,BT SPORT ESPN
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/31041
+#EXTINF:-1,BT SPORT ESPN FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/30906
+#EXTINF:-1,MANCHESTER UNITED TV
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/30958
+#EXTINF:-1 group-title="FOOTBALL",BEIN SPORTS 11 HD EN
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9153
+#EXTINF:-1,SKY SPORTS MAIN EVENT
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/31084
+#EXTINF:-1,SKY SPORTS MAIN EVENT FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/30945
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/31088
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/30943
+#EXTINF:-1,FR RMC SPORT 1
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/15127
+#EXTINF:-1,NBCSN FHD
+http://v1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/86124
+#EXTINF:-1,FR RMC SPORT 1 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9218
+#EXTINF:-1,FR RMC SPORT 1 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9502
+#EXTINF:-1,EPL 1
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59363
+#EXTINF:-1,EPL 2
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59364
+#EXTINF:-1,EPL 3
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59365
+#EXTINF:-1,EPL 4
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59366
+#EXTINF:-1,EPL 5
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59367
+#EXTINF:-1,EPL 6
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59368
+#EXTINF:-1,EPL 7
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59369
+#EXTINF:-1,EPL 8
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59370
+#EXTINF:-1,EPL 9
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59371
+#EXTINF:-1,EPL 10
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59372
+#EXTINF:-1,EPL 11
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59373
+#EXTINF:-1,VIP DE: Sky Sport 1 HD (1080P)
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59288
+#EXTINF:-1,VIP DE: Sky Sport 2 HD (1080P)
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59291
+#EXTINF:-1,VIP DE: Sky Sport 10 HD (1080P)
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59289
+#EXTINF:-1,VIP DE: Sky Sport 11 HD (1080P)
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59290
+#EXTINF:-1,NL ZIGGO SPORT VOETBAL
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/62975
+#EXTINF:-1,NL Ziggo Voetbal Hevc
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/63951
+#EXTINF:-1,NL ZIGGO SPORT SELECT HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/62974
+#EXTINF:-1,NL Ziggo Select Hevc
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/63950
+#EXTINF:-1,NL FOX SPORTS 1 EREDIVISIE HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/62976
+#EXTINF:-1,NL Fox Sport 1 Hevc
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/63940
+#EXTINF:-1,NL FOX SPORTS 2 INTERNATIONAL
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/62977
+#EXTINF:-1,NL Fox Sport 2 Hevc
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/63941
+#EXTINF:-1,NL FOX SPORTS 3 EREDIVISIE
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/62978
+#EXTINF:-1,NL Fox Sport 3 Hevc
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/63942
+#EXTINF:-1,NL FOX SPORTS 4 INTERNATIONAL
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/62979
+#EXTINF:-1,NL Fox Sport 4 Hevc
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/63943
+#EXTINF:-1,NL FOX SPORTS 5 EREDIVISIE HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/62980
+#EXTINF:-1,NL Fox Sport 5 Hevc
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/63944
+#EXTINF:-1,NL Fox Sport 6 Hevc
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/63945
+#EXTINF:-1,NL FOX SPORTS 6 INTERNATIONAL
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/62981
+#EXTINF:-1,PT SPORT TV 1
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/58879
+#EXTINF:-1,PT  SPORT TV 1 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/31368
+#EXTINF:-1,PT SPORT TV 2
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/58881
+#EXTINF:-1,PT SPORT TV 2 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/58880
+#EXTINF:-1,PT SPORT TV 3
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/58883
+#EXTINF:-1,PT SPORT TV 3 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/58882
+#EXTINF:-1,PT SPORT TV 4
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/58885
+#EXTINF:-1,PT SPORT TV 4 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/58884
+#EXTINF:-1,PT SPORT TV 5
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/58887
+#EXTINF:-1,BE VOO SPORT 2
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/48140
+#EXTINF:-1,BE VOO SPORT WORLD 1
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/48138
+#EXTINF:-1,BE VOO SPORT WORLD 2
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/48137
+#EXTINF:-1,BE VOO SPORT WORLD 3
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/48139
+#EXTINF:-1,IFOLLOW 1
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59374
+#EXTINF:-1,IFOLLOW 2
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59375
+#EXTINF:-1,IFOLLOW 3
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59376
+#EXTINF:-1,IFOLLOW 4
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59377
+#EXTINF:-1,IFOLLOW 5
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59378
+#EXTINF:-1,IFOLLOW 6
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59379
+#EXTINF:-1,IFOLLOW 7
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59380
+#EXTINF:-1,IFOLLOW 8
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59381
+#EXTINF:-1,IFOLLOW 9
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59382
+#EXTINF:-1,IFOLLOW 10
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59383
+#EXTINF:-1,IFOLLOW 11
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59384
+#EXTINF:-1,IFOLLOW 12
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59385
+#EXTINF:-1,IFOLLOW 13
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59386
+#EXTINF:-1,IFOLLOW 14
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59387
+#EXTINF:-1,IFOLLOW 15
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59388
+#EXTINF:-1,IFOLLOW 16
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59389
+#EXTINF:-1,IFOLLOW 17
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59390
+#EXTINF:-1,IFOLLOW 18
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59391
+#EXTINF:-1,IFOLLOW 19
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59392
+#EXTINF:-1,IFOLLOW 20
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59393
+#EXTINF:-1 group-title="SUPERSPORT",|.ZA.| Super Sport 3 FHD
+http://v1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/102711
+#EXTINF:-1,|.ZA.| Super Sport 1 FHD
+http://v1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/102709
+#EXTINF:-1,|.ZA.| Super Sport 2 FHD
+http://v1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/102710
+#EXTINF:-1,|.ZA.| Super Sport 4 FHD
+http://v1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/102712
+#EXTINF:-1,|.ZA.| Super Sport 5 FHD
+http://v1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/102713
+#EXTINF:-1,|.ZA.| Super Sport 6 FHD
+http://v1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/102714
+#EXTINF:-1,|.ZA.| Super Sport 7 FHD
+http://v1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/102715
+#EXTINF:-1,|.ZA.| Super Sport 8 FHD
+http://v1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/102716
+#EXTINF:-1,|.ZA.| Super Sport 9 FHD
+http://v1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/102717
+#EXTINF:-1,|.ZA.| Super Sport 10 FHD
+http://v1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/102718
+#EXTINF:-1,|.ZA.| Super Sport 11 FHD
+http://v1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/102719
+#EXTINF:-1,|.ZA.| Super Sport 12 FHD
+http://v1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/102720
+#EXTINF:-1,|.ZA.| Super Sport Blitz FHD
+http://v1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/102721
+#EXTINF:-1 group-title="BEIN",BEIN SPORTS 11 HD EN
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9153
+#EXTINF:-1,BEIN SPORTS 12 HD EN
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9154
+#EXTINF:-1,BEIN SPORTS 13 HD EN
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9155
+#EXTINF:-1,BEIN SPORTS 1 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9131
+#EXTINF:-1,BEIN SPORTS 1 HD Backup
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/32146
+#EXTINF:-1,BEIN SPORTS 1 FHD HEVC
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/28265
+#EXTINF:-1,BEIN SPORTS 2 SD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/32014
+#EXTINF:-1,BEIN SPORTS 2 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9134
+#EXTINF:-1,BEIN SPORTS 2 HD Backup
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9135
+#EXTINF:-1,BEIN SPORTS 2 FHD HEVC
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/28266
+#EXTINF:-1,BEIN SPORTS 3 SD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/32013
+#EXTINF:-1,BEIN SPORTS 3 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9136
+#EXTINF:-1,BEIN SPORTS 3 HD Backup
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9137
+#EXTINF:-1,BEIN SPORTS 3 FHD HEVC
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/28267
+#EXTINF:-1,BEIN SPORTS 4 SD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/32012
+#EXTINF:-1,BEIN SPORTS 4 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9138
+#EXTINF:-1,BEIN SPORTS 4 HD Backup
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9139
+#EXTINF:-1,BEIN SPORTS 4 FHD HEVC
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/28268
+#EXTINF:-1,BEIN SPORTS 5 SD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/32011
+#EXTINF:-1,BEIN SPORTS 5 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9140
+#EXTINF:-1,BEIN SPORTS 5 HD Backup
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9141
+#EXTINF:-1,BEIN SPORTS 5 FHD HEVC
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/28269
+#EXTINF:-1,BEIN SPORTS 6 SD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/32010
+#EXTINF:-1,BEIN SPORTS 6 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9142
+#EXTINF:-1,BEIN SPORTS 6 HD Backup
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9143
+#EXTINF:-1,BEIN SPORTS 6 FHD HEVC
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/28270
+#EXTINF:-1,BEIN SPORTS 7 SD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/32009
+#EXTINF:-1,BEIN SPORTS 7 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9144
+#EXTINF:-1,BEIN SPORTS 7 HD Backup
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9145
+#EXTINF:-1,BEIN SPORTS 7 FHD HEVC
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/28271
+#EXTINF:-1,BEIN SPORTS 8 SD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/32008
+#EXTINF:-1,BEIN SPORTS 8 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9146
+#EXTINF:-1,BEIN SPORTS 8 HD Backup
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9147
+#EXTINF:-1,BEIN SPORTS 8 FHD HEVC
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/39224
+#EXTINF:-1,BEIN SPORTS 9 SD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/32007
+#EXTINF:-1,BEIN SPORTS 9 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9148
+#EXTINF:-1,BEIN SPORTS 9 HD Backup
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9149
+#EXTINF:-1,BEIN SPORTS 9 FHD HEVC
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/39225
+#EXTINF:-1,BEIN SPORTS 10 SD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/32006
+#EXTINF:-1,BEIN SPORTS 10 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9150
+#EXTINF:-1,BEIN SPORTS 10 HD Backup
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9151
+#EXTINF:-1,BEIN SPORTS 10 FHD HEVC
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/39226
+#EXTINF:-1 group-title="FRANCE SPORT",FR RMC SPORT 1
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/15127
+#EXTINF:-1,FR RMC SPORT 1 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9218
+#EXTINF:-1,FR RMC SPORT 1 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9502
+#EXTINF:-1,FR RMC SPORT 2
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/15126
+#EXTINF:-1,FR RMC SPORT 2 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9217
+#EXTINF:-1,FR RMC SPORT 2 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9501
+#EXTINF:-1,FR RMC SPORT 3
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/15125
+#EXTINF:-1,FR RMC SPORT 3 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9216
+#EXTINF:-1,FR RMC SPORT 3 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9500
+#EXTINF:-1,FR RMC SPORT 4
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/15124
+#EXTINF:-1,FR RMC SPORT 4 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9215
+#EXTINF:-1,FR RMC SPORT 4 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9499
+#EXTINF:-1,FR RMC SPORT LIVE 5 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/40480
+#EXTINF:-1,FR RMC SPORT LIVE 6 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/40479
+#EXTINF:-1,FR RMC SPORT LIVE 7 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/40478
+#EXTINF:-1,FR RMC SPORT LIVE 8 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/40477
+#EXTINF:-1,FR RMC SPORT LIVE 9 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/40476
+#EXTINF:-1,FR RMC SPORT LIVE 10 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/40475
+#EXTINF:-1,FR RMC SPORT LIVE 11 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/40474
+#EXTINF:-1,FR RMC SPORT LIVE 12 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/40473
+#EXTINF:-1,FR RMC SPORT LIVE 13 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/40472
+#EXTINF:-1,FR RMC SPORT LIVE 14 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/40471
+#EXTINF:-1,FR RMC SPORT LIVE 15 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/40470
+#EXTINF:-1,FR RMC SPORT ACCESS 1
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/40484
+#EXTINF:-1,FR RMC SPORT ACCESS 2
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/40483
+#EXTINF:-1,FR CANAL  FHD BKP
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/51165
+#EXTINF:-1,FR CANAL SPORT
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/39203
+#EXTINF:-1,FR CANAL SPORT HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/15191
+#EXTINF:-1,FR CANAL SPORT FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9326
+#EXTINF:-1,FR CANAL SPORT FHD BKP
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/51166
+#EXTINF:-1,FR BEIN SPORT 1
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/15204
+#EXTINF:-1,FR BEIN SPORT 1 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9340
+#EXTINF:-1,FR BEIN SPORT 1 HD BKP
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9345
+#EXTINF:-1,FR BEIN SPORT 1 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9589
+#EXTINF:-1,FR BEIN SPORT 1 FHD BKP
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/51102
+#EXTINF:-1,FR BEIN SPORT 2
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/15203
+#EXTINF:-1,FR BEIN SPORT 2 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9339
+#EXTINF:-1,FR BEIN SPORT 2 HD BKP
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9344
+#EXTINF:-1,FR BEIN SPORT 2 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9588
+#EXTINF:-1,FR BEIN SPORT 2 FHD BKP
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/51101
+#EXTINF:-1,FR BEIN SPORT 3
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/15202
+#EXTINF:-1,FR  BEIN SPORT 3 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9341
+#EXTINF:-1,FR BEIN SPORT 3 HD BKP
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9343
+#EXTINF:-1,FR BEIN SPORT 3 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/9587
+#EXTINF:-1,FR BEIN SPORT 3 FHD BKP
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/51100
+#EXTINF:-1,FR BEIN SPORT MAX 4 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/15210
+#EXTINF:-1,FR BEIN SPORT MAX 5 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/15209
+#EXTINF:-1,FR BEIN SPORT MAX 6 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/15208
+#EXTINF:-1,FR BEIN SPORT MAX 7 HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/15207
+#EXTINF:-1,FR BEIN SPORT MAX 8 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/15206
+#EXTINF:-1,FR BEIN SPORT MAX 9 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/15205
+#EXTINF:-1,FR BEIN SPORT MAX 10 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/15211
+#EXTINF:-1,FR RMC SPORT NEWS
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59873
+#EXTINF:-1,FR RMC SPORT NEWS HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/40482
+#EXTINF:-1,FR RMC SPORT NEWS FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/40481
+#EXTINF:-1,FR RMC SPORT 4K
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/40469
+#EXTINF:-1,FR FOOT+ 24/24
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/32819
+#EXTINF:-1,FR FOOT+ 24/24 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/51104
+#EXTINF:-1 group-title="UK TV",|.UK.|  ITV  1
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/30879
+#EXTINF:-1,|.UK.|  ITV 1 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/30991
+#EXTINF:-1,|.UK.| ITV 4
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/31068
+#EXTINF:-1,|.UK.| ITV 4  FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/30876
+#EXTINF:-1,|.UK.| S4C
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/30853
+#EXTINF:-1,|.UK.| BBC ONE HD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/30898
+#EXTINF:-1,|.UK.| BBC ONE FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/30870
+#EXTINF:-1,|.UK.| BBC TWO
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/31034
+#EXTINF:-1,|.UK.| BBC FOUR
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/31035
+#EXTINF:-1,|.UK.| CHANNEL 4
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/31018
+#EXTINF:-1,|.UK.| CHANNEL 4 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/31017
+#EXTINF:-1,|.UK.| CHANNEL 5
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/31016
+#EXTINF:-1,|.UK.| CHANNEL 5 FHD
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/31015
+#EXTINF:-1 group-title="UK PPV",PPV 1 Boxing Yves Ulysse Jr vs Ismael Barroso 10PM (Wednesday)
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59320
+#EXTINF:-1,PPV 2 Boxing : Zolani Tete vs John Riel Casimero 230PM ET
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59319
+#EXTINF:-1,PPV 3 Boxing : Radzhab Butaev vs Alexander Besputin 230PM ET
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59318
+#EXTINF:-1,PPV 4 Boxing : Oscar Valdez vs Andres Gutierrez 630PM ET
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59317
+#EXTINF:-1,PPV 5
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59316
+#EXTINF:-1,PPV 6
+http://n1.viptvclub.com:25443/VKE3bgm8L0D/CoufRBBEt7/59315
